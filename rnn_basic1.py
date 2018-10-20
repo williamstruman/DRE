@@ -145,6 +145,7 @@ for i in range(max_iterations):
     print('model saved')
     print('\n')
 
+print('this is the end of the experiment')
 
 
   
